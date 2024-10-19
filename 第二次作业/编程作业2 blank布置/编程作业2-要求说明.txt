@@ -1,0 +1,4 @@
+Part2: Geometry Objects Modeling & GeometryTransformation
+HW2：3D物体建模和场景漫游
+基本要求：建模网格模型草帽（颜色花纹不限制）；键盘WASD控制相机绕坐标轴旋转；键盘P正投影，键盘P透视投影。
+附加项：构造了复杂几何物体如3D分形图，由他茶壶等；或虚拟跟踪球交互效果；或在顶点着色器中实现物体morph变形等复杂动画。
